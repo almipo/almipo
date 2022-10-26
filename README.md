@@ -11,7 +11,7 @@
 
 <hr/>
 
-<h2>Hello! I'm Alan Pozzi, passionate front-end developer.
+<h2>Hello! I'm Alan Pozzi, passionate front-end developer, from Argentina.
 
 I am currently learning back-end & reactjs</h2>
 
