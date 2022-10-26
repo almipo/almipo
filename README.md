@@ -2,14 +2,19 @@
 <a href="https://www.linkedin.com/in/alan-pozzi-688a69137/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" align="left" width="40" height="40"/></a>
 </div>
 
+
+<hr/>
+
 <div align="center">
 <h1>Hi there, I'm Alan 👋</h1>
 </div>
+
+<hr/>
+
 <h2>Hello! I'm Alan Pozzi, passionate front-end developer.
 
 I am currently learning back-end & reactjs</h2>
 
-<hr/>
 
 <hr/>
 <div align="center" >
