@@ -2,5 +2,5 @@
 
  <hr/>
 
-
+<src= ./linkedin.svg>
 - 🌱 I’m  learning front-end;
